@@ -26,3 +26,6 @@ python3 -m pip install --upgrade -r requirements.txt
 ```
 
 - Updated the README up to this point here -> .
+- Added the Jupyter Notebook & worked through the entirety of the assignment, covering simple **linear regressions** and **machine learning**
+
+For more information, see the Jupyter Notebook `gillespie_ml.ipynb`.
